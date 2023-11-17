@@ -7,7 +7,7 @@
 1. Clonar el repositorio
 2. Ejecutar
 ```
-yarn install
+yarn install o npm install
 ```
 3. Tener Nest CLI instalado
 ```
